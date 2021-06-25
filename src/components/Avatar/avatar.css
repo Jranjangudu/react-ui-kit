@@ -1,0 +1,55 @@
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 10px;
+  box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+  -webkit-box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+}
+.border {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  margin: 10px;
+}
+.leftTopRadius {
+  width: 100px;
+  height: 100px;
+  border-top-left-radius: 30px;
+  margin: 10px;
+  box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+  -webkit-box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+}
+.rightTopRadius {
+  width: 100px;
+  height: 100px;
+  border-top-right-radius: 30px;
+  margin: 10px;
+}
+.round {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+  margin: 10px;
+  box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+  -webkit-box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+}
+.leftBottomRadius {
+  width: 100px;
+  height: 100px;
+  border-bottom-left-radius: 30px;
+  margin: 10px;
+}
+
+.rightBottomRadius {
+  width: 100px;
+  height: 100px;
+  border-bottom-right-radius: 30px;
+  margin: 10px;
+  box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+  -webkit-box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 9px 8px 7px 3px rgba(0, 0, 0, 0.22);
+}

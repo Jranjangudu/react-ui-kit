@@ -1,0 +1,14 @@
+.mobile_screen {
+  justify-content: space-evenly;
+  display: flex;
+}
+@media screen and (max-width: 730px) {
+  .mobile_screen {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 650px) {
+  .card_block {
+    flex-wrap: wrap;
+  }
+}
